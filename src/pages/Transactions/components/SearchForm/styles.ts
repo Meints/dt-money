@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const SearchFormCointainer = styled.form`
+export const SearchFormContainer = styled.form`
     display: flex;
     gap: 1rem;
 
